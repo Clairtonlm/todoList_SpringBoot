@@ -1,8 +1,13 @@
-package tech.clairtonlima.todoList.user;
+package tech.clairtonlima.todolist.user;
 
+import lombok.Data;
+
+@Data
 public class UserModel {
     
-    public String username;
-    public String name;
-    public String password;
+   public public String username;
+   public  public String name;
+   public public String password;
+
+
 }
